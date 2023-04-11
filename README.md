@@ -10,3 +10,5 @@ Wilwer J. Jaimes,
 Wilson J. Arenas,
 Humberto J. Navarro,
 Miguel Altuve.
+
+![Abstract](https://user-images.githubusercontent.com/67522549/231283758-30c4ad05-2762-476f-9085-6bdf8b4b82e2.jpg)
